@@ -1,0 +1,15 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: securecookie
+Source: https://github.com/gorilla/securecookie
+
+Files: *
+Copyright: 2012 Gorilla web toolkit
+License: BSD-3-clause
+
+Files: debian/*
+Copyright: 2015 Markus Sabadello <markus@projectdanube.org>
+License: BSD-3-clause
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: BSD-3-clause
+TODO
