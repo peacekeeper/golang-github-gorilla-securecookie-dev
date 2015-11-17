@@ -1,5 +1,5 @@
 golang-github-gorilla-securecookie (0.0~git20150820.0.e95799a-1) UNRELEASED; urgency=medium
 
-  * Initial release (Closes: TODO)
+  * Initial release
 
  -- Markus Sabadello <markus@projectdanube.org>  Tue, 17 Nov 2015 15:32:01 +0100
